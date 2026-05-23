@@ -3,11 +3,13 @@ About napari-gemspa-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-gemspa-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/liamholtlab/napari-gemspa
+Home: https://pypi.org/project/napari-gemspa
 
 Package license: BSD-3-Clause
 
 Summary: A plugin for analysis of single particle tracking experiments
+
+Development: https://github.com/liamholtlab/napari-gemspa
 
 Current build status
 ====================
